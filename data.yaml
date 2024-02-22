@@ -1,5 +1,0 @@
-train: leaf-data/train/images
-val: leaf-data/valid/images
-
-nc: 3
-names: ['BACTERIAL SPOT', 'Healthy', 'Virus']
