@@ -1,5 +1,5 @@
-train: /content/drive/MyDrive/interview/leaf-data/train
-val: /content/drive/MyDrive/interview/leaf-data/valid
+train: leaf-data/train/images
+val: leaf-data/valid/images
 
 nc: 3
 names: ['BACTERIAL SPOT', 'Healthy', 'Virus']
