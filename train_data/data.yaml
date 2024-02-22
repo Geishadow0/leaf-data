@@ -1,5 +1,6 @@
-train: train/images
-val: valid/images
+train: /content/leaf-data/train_data/images/train
+val: /content/leaf-data/train_data/images/val
+
 
 nc: 3
 names: ['BACTERIAL SPOT', 'Healthy', 'Virus']
